@@ -1,0 +1,101 @@
+,title,score,url,comments
+0,The Truth About LLMs,1480,https://i.redd.it/sjiy0f35qroc1.png,299
+1,Karpathy on LLM evals,1455,https://i.redd.it/8g0zoors6i7c1.jpeg,110
+2,"Zuckerberg says they are training LLaMa 3 on 600,000 H100s.. mind blown!",1238,https://v.redd.it/pzlvuoncz8dc1,409
+3,Google publishes open source 2B and 7B model,1147,https://blog.google/technology/developers/gemma-open-models/,366
+4,This is pretty revolutionary for the local LLM scene!,1143,https://www.reddit.com/r/LocalLLaMA/comments/1b21bbx/this_is_pretty_revolutionary_for_the_local_llm/,310
+5,How to install LLaMA: 8-bit and 4-bit,1127,https://www.reddit.com/r/LocalLLaMA/comments/11o6o3f/how_to_install_llama_8bit_and_4bit/,309
+6,"""Alignment"" in one word",1015,https://i.redd.it/76974pvtpqmc1.png,122
+7,New Claude 2.1 Refuses to kill a Python process :),945,https://i.redd.it/w4flnloi4r1c1.png,147
+8,5 x A100 setup finally complete,942,https://www.reddit.com/gallery/1aduzqq,240
+9,It was only a matter of time.,950,https://i.redd.it/qisxmlxaui5b1.jpg,204
+10,"Arthur Mensch, CEO of Mistral declared on French national radio that mistral will release an open source Gpt4 level model in 2024",894,https://www.reddit.com/r/LocalLLaMA/comments/18lfneg/arthur_mensch_ceo_of_mistral_declared_on_french/,177
+11,Your settings are (probably) hurting your model - Why sampler settings matter,863,https://www.reddit.com/r/LocalLLaMA/comments/17vonjo/your_settings_are_probably_hurting_your_model_why/,150
+12,LLaMA 2 is here,855,https://www.reddit.com/r/LocalLLaMA/comments/15324dp/llama_2_is_here/,473
+13,GPT-4 details leaked,836,https://www.reddit.com/r/LocalLLaMA/comments/14wbmio/gpt4_details_leaked/,397
+14,Meanwhile here at LocalLLaMA..,834,https://i.redd.it/jr463ta7fl1b1.png,28
+15,Apparently pro AI regulation Sam Altman has been spending a lot of time in Washington lobbying the government presumably to regulate Open Source. This guy is upto no good. ,800,https://v.redd.it/4ob8m407t7qc1,208
+16,Got myself a 4way rtx 4090 rig for local LLM,772,https://i.redd.it/abxkvuy1rh5c1.jpeg,390
+17,No we don't ,768,https://i.redd.it/3wmka8xpt7qc1.png,131
+18,Who's next?,765,https://i.redd.it/5rma8h7xqipc1.png,191
+19,667 of OpenAI's 770 employees have threaten to quit. Microsoft says they all have jobs at Microsoft if they want them.,755,https://www.cnbc.com/2023/11/20/hundreds-of-openai-employees-threaten-to-follow-altman-to-microsoft-unless-board-resigns-reports-say.html,300
+20,🐺🐦‍⬛ Huge LLM Comparison/Test: 39 models tested (7B-70B + ChatGPT/GPT-4),754,https://www.reddit.com/r/LocalLLaMA/comments/17fhp9k/huge_llm_comparisontest_39_models_tested_7b70b/,224
+21,after being here one week,737,https://i.redd.it/whsrfzh0rcsb1.png,88
+22,WizardLM-30B-Uncensored,729,https://www.reddit.com/r/LocalLLaMA/comments/13op1sd/wizardlm30buncensored/,311
+23,We did it you guys! Meta referenced us in their new Llama 2 long context paper.,704,https://i.redd.it/j2oh7bhyb5rb1.jpg,42
+24,Grok Weights Released,692,https://www.reddit.com/r/LocalLLaMA/comments/1bh5x7j/grok_weights_released/,442
+25,"80% faster, 50% less memory, 0% accuracy loss Llama finetuning",690,https://www.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/,293
+26,OpenAI was never intended to be Open,680,https://www.reddit.com/r/LocalLLaMA/comments/1b8ab00/openai_was_never_intended_to_be_open/,215
+27,The destroyer of fertility rates,679,https://i.redd.it/vpv8havo3peb1.jpg,182
+28,"They created the *safest* model which won’t answer “What is 2+2”, I can’t believe",681,https://i.redd.it/315iib3rtrhc1.jpeg,117
+29,This will be society in 2024,663,https://i.redd.it/t0w92i4al9pb1.png,33
+30,My experience on starting with fine tuning LLMs with custom data,652,https://www.reddit.com/r/LocalLLaMA/comments/14vnfh2/my_experience_on_starting_with_fine_tuning_llms/,221
+31,STOP using small models! just buy 8xH100 and inference your own GPT-4 instance,655,https://i.redd.it/t5sli4jxgqcc1.jpeg,185
+32,Grok from xAI will be open source this week,652,https://x.com/elonmusk/status/1767108624038449405?s=46,213
+33,"Microsoft CEO on owning OpenAI, from Elon vs OpenAI lawsuit",643,https://i.redd.it/29vuxqukhppc1.jpeg,198
+34,"After 500+ LoRAs made, here is the secret",645,https://www.reddit.com/r/LocalLLaMA/comments/16zuccy/after_500_loras_made_here_is_the_secret/,133
+35,What Investors want to Hear,634,https://i.redd.it/0wictqik43pc1.jpeg,54
+36,"Me, after new Code Llama just dropped...",618,https://i.redd.it/wbux7rdk5jfc1.jpeg,116
+37,Literally my first conversation with it,605,https://i.redd.it/hdxx0xbvllbc1.jpeg,214
+38,Google Brain cofounder says Big Tech companies are lying about the risks of AI wiping out humanity because they want to dominate the market,599,https://www.businessinsider.com/andrew-ng-google-brain-big-tech-ai-risks-2023-10?amp,156
+39,Elon Musk sues OpenAI for abandoning original mission for profit,593,https://www.reuters.com/legal/elon-musk-sues-openai-ceo-sam-altman-breach-contract-2024-03-01/,210
+40,"From the NVIDIA GTC, Nvidia Blackwell, well crap",588,https://i.redd.it/evf8juzlk5pc1.png,264
+41,Question for Qwen14b - What's wrong with US and Chinese government,578,https://i.redd.it/g9mx0ldtiikc1.png,184
+42,What is the cause of more and more régulations on Open source AI??,581,https://i.redd.it/vganj0mnj9qc1.png,149
+43,"Meta believes safeguards for Llama 2 were ""too safe"", wants Llama 3 to handle contentious questions and planning for a July release date",567,https://www.reddit.com/r/LocalLLaMA/comments/1b29eax/meta_believes_safeguards_for_llama_2_were_too/,97
+44,LLM Enlightenment,565,https://i.redd.it/2fq7875aumec1.jpeg,74
+45,In defense of Mistral AI,564,https://www.reddit.com/r/LocalLLaMA/comments/1b0pu94/in_defense_of_mistral_ai/,187
+46,"Mark Zuckerberg with a fantastic, insightful reply in a podcast on why he really believes in open-source models.",555,https://www.reddit.com/r/LocalLLaMA/comments/1b12bl5/mark_zuckerberg_with_a_fantastic_insightful_reply/,149
+47,They did it! Tinyllama version 1.0 is now out!,553,https://www.reddit.com/r/LocalLLaMA/comments/18uzdw5/they_did_it_tinyllama_version_10_is_now_out/,202
+48,The Power of Open Models In Two Pictures,550,https://www.reddit.com/gallery/1ax0s5b,162
+49,"OpenAI wants to crack down on open source LLMs, force through a government licensing system, and create a regulatory moat for themselves",546,https://www.nasdaq.com/articles/openai-chief-goes-before-us-congress-to-propose-licenses-for-building-ai,257
+50,Meta has purchased approximately 150k H100s this year. Llama was trained on 2k A100s. The scale up here is incredible. What do you think this unlocks for Llama 3?,537,https://i.redd.it/kwuor1tkc14c1.png,201
+51,"Goody-2, the most responsible AI in the world",528,https://www.goody2.ai/chat,193
+52,I can run almost any model now. So so happy. Cost a little more than a Mac Studio.,525,https://www.reddit.com/gallery/1apvbx5,183
+53,Looks like they finally lobotomized Claude 3 :( I even bought the subscription,523,https://i.redd.it/mdl8d9gkr3qc1.png,177
+54,Apple releases ferret!,512,https://www.reddit.com/r/LocalLLaMA/comments/18p8tsk/apple_releases_ferret/,137
+55,Extremely hot take: Computers should always follow user commands without exception.,502,https://www.reddit.com/r/LocalLLaMA/comments/1aeq70s/extremely_hot_take_computers_should_always_follow/,439
+56,Yann LeCun on why AI must be open source - video upload,506,https://v.redd.it/v1ot5kq3pn2c1,111
+57,LLM benchmarks be like,501,https://i.redd.it/p6z9msnisjjc1.png,45
+58,"This is why i hate Gemini, just asked to replace 10.0.0.21 to localost",494,https://i.redd.it/aoova7d2kklc1.png,168
+59,review of 10 ways to run LLMs locally,494,https://www.reddit.com/r/LocalLLaMA/comments/1am0p48/review_of_10_ways_to_run_llms_locally/,240
+60,Expedia chatbot,488,https://www.reddit.com/gallery/18unztg,111
+61,What All Dropped Recently:,488,https://www.reddit.com/r/LocalLLaMA/comments/187pq0s/what_all_dropped_recently/,80
+62,Amazing results for 1Bit,484,https://i.redd.it/1uizqtjl4dlc1.jpeg,132
+63,Karparthy is here!?,485,https://i.redd.it/161g62pigovb1.png,69
+64,Gemini thinks C++ is too dangerous for under 18 year olds,480,https://www.reddit.com/r/LocalLLaMA/comments/1b75vq0/gemini_thinks_c_is_too_dangerous_for_under_18/,85
+65,Introducing LoraLand: 25 fine-tuned Mistral-7b models that outperform GPT-4,478,https://www.reddit.com/r/LocalLLaMA/comments/1avm2l7/introducing_loraland_25_finetuned_mistral7b/,133
+66,Top 10 Betrayals in Anime History,475,https://www.reddit.com/gallery/1b0o41v,130
+67,Brazilian modders successfully double RTX 2080 memory from 8GB to 16GB VRAM,477,https://www.tomshardware.com/pc-components/gpus/brazilian-modders-double-nvidia-rtx-2080-memory-but-only-see-a-10-performance-boost?utm_source=pocket_saves,199
+68,"grok architecture, biggest pretrained MoE yet?",477,https://i.redd.it/zswvjd1a5yoc1.png,154
+69,Many AI Safety Orgs Have Tried to Criminalize Currently-Existing Open-Source AI,471,https://1a3orn.com/sub/machine-learning-bans.html,139
+70,"TheBloke has released ""SuperHot"" versions of various models, meaning 8K context!",474,https://www.reddit.com/r/LocalLLaMA/comments/14kj2w8/thebloke_has_released_superhot_versions_of/,158
+71,"Guanaco 7B, 13B, 33B and 65B models by Tim Dettmers: now for your local LLM pleasure",477,https://www.reddit.com/r/LocalLLaMA/comments/13rthln/guanaco_7b_13b_33b_and_65b_models_by_tim_dettmers/,259
+72,AMD CTO is here,473,https://www.reddit.com/r/LocalLLaMA/comments/1akel4h/amd_cto_is_here/,343
+73,"Just installed a recent llama.cpp branch, and the speed of Mixtral 8x7b is beyond insane, it's like a Christmas gift for us all (M2, 64 Gb). GPT 3.5 model level with such speed, locally",465,https://v.redd.it/voe3nf2z0p5c1,198
+74,New Mistral models just dropped (magnet links),473,https://twitter.com/MistralAI,226
+75,"🐺🐦‍⬛ LLM Comparison/Test: 2x 34B Yi (Dolphin, Nous Capybara) vs. 12x 70B, 120B, ChatGPT/GPT-4",462,https://www.reddit.com/r/LocalLLaMA/comments/17vcr9d/llm_comparisontest_2x_34b_yi_dolphin_nous/,186
+76,Claude3 release,461,https://www.cnbc.com/2024/03/04/google-backed-anthropic-debuts-claude-3-its-most-powerful-chatbot-yet.html,273
+77,"✅ WizardCoder-34B surpasses GPT-4, ChatGPT-3.5 and Claude-2 on HumanEval with 73.2% pass@1",464,https://www.reddit.com/gallery/161t65v,172
+78,WizardLM-13B-Uncensored,456,https://www.reddit.com/r/LocalLLaMA/comments/13dem7j/wizardlm13buncensored/,205
+79,"🐺🐦‍⬛ **Big** LLM Comparison/Test: 3x 120B, 12x 70B, 2x 34B, GPT-4/3.5",448,https://www.reddit.com/r/LocalLLaMA/comments/185ff51/big_llm_comparisontest_3x_120b_12x_70b_2x_34b/,184
+80,"Lead architect from IBM thinks 1.58 could go to 0.68, doubling the already extreme progress from Ternary paper just yesterday.",457,https://news.ycombinator.com/item?id=39544500,219
+81,"AI one-percenters seizing power forever is the real doomsday scenario, warns AI godfather",451,https://www.businessinsider.com/sam-altman-and-demis-hassabis-just-want-to-control-ai-2023-10?r=US&IR=T&utm_source=reddit.com,80
+82,He's has a lot of bugs atm but my droid finally runs his own unfiltered model 😂😂,448,https://v.redd.it/1swtbr232noc1,59
+83,Falcon180B: authors open source a new 180B version!,445,https://www.reddit.com/r/LocalLLaMA/comments/16bjdmd/falcon180b_authors_open_source_a_new_180b_version/,330
+84,I wish I had tried LMStudio first...,449,https://www.reddit.com/r/LocalLLaMA/comments/18pyul4/i_wish_i_had_tried_lmstudio_first/,248
+85,Mistral changing and then reversing website changes,443,https://i.redd.it/evfrjmi4p3lc1.jpeg,129
+86,Phi-2 becomes open source (MIT license 🎉),446,https://www.reddit.com/r/LocalLLaMA/comments/18zvxs8/phi2_becomes_open_source_mit_license/,119
+87,"Microsoft makes new 1.3B coding LLM that outperforms all models on MBPP except GPT-4, reaches third place on HumanEval above GPT-3.5, and shows emergent properties",440,https://www.reddit.com/r/LocalLLaMA/comments/14ez6qf/microsoft_makes_new_13b_coding_llm_that/,118
+88,Sam Altman out as CEO of OpenAI. Mira Murati is the new CEO.,445,https://www.cnbc.com/2023/11/17/sam-altman-leaves-openai-mira-murati-appointed-interim-boss.html,308
+89,NTK-Aware Scaled RoPE allows LLaMA models to have extended (8k+) context size without any fine-tuning and minimal perplexity degradation.,432,https://www.reddit.com/r/LocalLLaMA/comments/14lz7j5/ntkaware_scaled_rope_allows_llama_models_to_have/,77
+90,A Starter Guide for Playing with Your Own Local AI!,431,https://www.reddit.com/r/LocalLLaMA/comments/16y95hk/a_starter_guide_for_playing_with_your_own_local_ai/,69
+91,"Rate my jank, finally maxed out my available PCIe slots",430,https://www.reddit.com/gallery/1b4lru9,128
+92,I see more and more people saying that they can't find the information they need by searching the Web.,424,https://i.redd.it/icy19t3edxhc1.png,157
+93,Code Llama Released,419,https://www.reddit.com/r/LocalLLaMA/comments/1601xk4/code_llama_released/,215
+94,"Creating a website for ""What can I run with my specs""?",423,https://www.reddit.com/r/LocalLLaMA/comments/13xgyyw/creating_a_website_for_what_can_i_run_with_my/,108
+95,llama.cpp now officially supports GPU acceleration.,411,https://www.reddit.com/r/LocalLLaMA/comments/13gok03/llamacpp_now_officially_supports_gpu_acceleration/,195
+96,French startup Mistral AI vows to maintain open source coding,411,https://www.reddit.com/r/LocalLLaMA/comments/1bdp00q/french_startup_mistral_ai_vows_to_maintain_open/,119
+97,Just put together a programming performance ranking for popular LLaMAs using the HumanEval+ Benchmark!,411,https://i.imgur.com/0xhJ5jU.jpg,212
+98,This is getting ridiculous! Can we please ban frankenmerge VC scams?,403,https://www.reddit.com/r/LocalLLaMA/comments/18qp3fh/this_is_getting_ridiculous_can_we_please_ban/,147
+99,"llama.cpp just got full CUDA acceleration, and now it can outperform GPTQ!",406,https://www.reddit.com/r/LocalLLaMA/comments/147z6as/llamacpp_just_got_full_cuda_acceleration_and_now/,165

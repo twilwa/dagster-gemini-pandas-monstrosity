@@ -1,0 +1,67 @@
+import logging
+import os
+import subprocess
+from typing import Optional
+
+from dagster._serdes import deserialize_value
+from dagster._utils.interrupts import capture_interrupts
+from dagster_cloud_cli.core.workspace import PexMetadata
+from typer import Option, Typer
+
+from ..registry import PexS3Registry
+from ..server import run_multipex_server
+
+app = Typer(hidden=True)
+
+
+@app.command(short_help="Run multi-pex server to spin up subprocesses via PEX files")
+def grpc(
+    host: str = Option(default="localhost"),
+    port: Optional[int] = Option(default=None),
+    socket: Optional[str] = Option(default=None),
+    max_workers: Optional[int] = Option(default=None),
+    local_pex_files_dir: Optional[str] = Option(
+        default="/tmp/pex-files", envvar="LOCAL_PEX_FILES_DIR"
+    ),
+    watchdog_run_interval: Optional[int] = Option(default=30, envvar="WATCHDOG_RUN_INTERVAL"),
+    enable_metrics: bool = Option(default=False, envvar="PEX_ENABLE_METRICS"),
+):
+    logger = logging.getLogger("dagster.multipex_server")
+
+    run_multipex_server(
+        port=port,
+        socket=socket,
+        host=host,
+        logger=logger,
+        max_workers=max_workers,
+        local_pex_files_dir=local_pex_files_dir,
+        watchdog_run_interval=watchdog_run_interval,
+        enable_metrics=enable_metrics,
+    )
+
+
+@app.command(short_help="Execute a run with a PEX file")
+def execute_run(
+    input_json: str,
+    pex_metadata_json: str,
+    local_pex_files_dir: Optional[str] = Option(
+        default="/tmp/pex-files", envvar="LOCAL_PEX_FILES_DIR"
+    ),
+):
+    with capture_interrupts():
+        pex_metadata = deserialize_value(pex_metadata_json, PexMetadata)
+        executable = PexS3Registry(local_pex_files_dir).get_pex_executable(pex_metadata)
+
+        subprocess.run(
+            [
+                executable.source_path,
+                "-m",
+                "dagster",
+                "api",
+                "execute_run",
+                input_json,
+            ],
+            check=True,
+            env={**os.environ.copy(), **executable.environ},
+            cwd=executable.working_directory,
+        )

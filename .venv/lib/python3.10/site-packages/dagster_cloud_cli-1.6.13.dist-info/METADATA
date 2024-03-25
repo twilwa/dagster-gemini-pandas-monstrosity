@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: dagster-cloud-cli
+Version: 1.6.13
+Author: Elementl
+Author-email: hello@elementl.com
+License: Apache-2.0
+Classifier: Programming Language :: Python :: 3.11
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Dist: packaging >=20.9
+Requires-Dist: questionary
+Requires-Dist: requests
+Requires-Dist: typer[all] >=0.4.1
+Requires-Dist: PyYAML >=5.1
+Requires-Dist: github3.py
+Provides-Extra: tests
+Requires-Dist: freezegun ; extra == 'tests'
+

@@ -1,0 +1,5 @@
+[32m2024-03-24 19:43:53 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 0560225d-c655-4691-a0c9-c3cb072656a2 - 2375089 - LOGS_CAPTURED - Started capturing logs in process (pid: 2375089).
+[32m2024-03-24 19:43:53 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 0560225d-c655-4691-a0c9-c3cb072656a2 - 2375089 - signups - STEP_START - Started execution of step "signups".
+[32m2024-03-24 19:43:54 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 0560225d-c655-4691-a0c9-c3cb072656a2 - 2375089 - signups - STEP_OUTPUT - Yielded output "result" of type "Nothing". (Type check passed).
+[32m2024-03-24 19:43:54 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 0560225d-c655-4691-a0c9-c3cb072656a2 - 2375089 - signups - ASSET_MATERIALIZATION - Materialized value signups.
+[32m2024-03-24 19:43:54 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 0560225d-c655-4691-a0c9-c3cb072656a2 - 2375089 - signups - STEP_SUCCESS - Finished execution of step "signups" in 1.28s.

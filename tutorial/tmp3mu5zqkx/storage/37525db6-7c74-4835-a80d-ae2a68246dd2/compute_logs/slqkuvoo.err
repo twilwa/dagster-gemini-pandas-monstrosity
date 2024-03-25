@@ -1,0 +1,10 @@
+[32m2024-03-24 18:32:13 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - 2230865 - LOGS_CAPTURED - Started capturing logs in process (pid: 2230865).
+[32m2024-03-24 18:32:13 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - 2230865 - topstories - STEP_START - Started execution of step "topstories".
+[32m2024-03-24 18:32:45 -0700[0m - dagster - [34mINFO[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - topstories - Processed 20 submissions
+[32m2024-03-24 18:33:09 -0700[0m - dagster - [34mINFO[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - topstories - Processed 40 submissions
+[32m2024-03-24 18:33:35 -0700[0m - dagster - [34mINFO[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - topstories - Processed 60 submissions
+[32m2024-03-24 18:33:59 -0700[0m - dagster - [34mINFO[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - topstories - Processed 80 submissions
+[32m2024-03-24 18:34:22 -0700[0m - dagster - [34mINFO[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - topstories - Processed 100 submissions
+[32m2024-03-24 18:34:22 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - 2230865 - topstories - STEP_OUTPUT - Yielded output "result" of type "Nothing". (Type check passed).
+[32m2024-03-24 18:34:22 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - 2230865 - topstories - ASSET_MATERIALIZATION - Materialized value topstories.
+[32m2024-03-24 18:34:22 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 37525db6-7c74-4835-a80d-ae2a68246dd2 - 2230865 - topstories - STEP_SUCCESS - Finished execution of step "topstories" in 2m9s.

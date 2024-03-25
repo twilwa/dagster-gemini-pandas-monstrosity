@@ -1,0 +1,5 @@
+[32m2024-03-24 18:35:01 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2b8561e3-42c4-467b-8f31-945c5a0f77a9 - 2237167 - LOGS_CAPTURED - Started capturing logs in process (pid: 2237167).
+[32m2024-03-24 18:35:01 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2b8561e3-42c4-467b-8f31-945c5a0f77a9 - 2237167 - most_frequent_words - STEP_START - Started execution of step "most_frequent_words".
+[32m2024-03-24 18:35:02 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2b8561e3-42c4-467b-8f31-945c5a0f77a9 - 2237167 - most_frequent_words - STEP_OUTPUT - Yielded output "result" of type "Nothing". (Type check passed).
+[32m2024-03-24 18:35:02 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2b8561e3-42c4-467b-8f31-945c5a0f77a9 - 2237167 - most_frequent_words - ASSET_MATERIALIZATION - Materialized value most_frequent_words.
+[32m2024-03-24 18:35:02 -0700[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 2b8561e3-42c4-467b-8f31-945c5a0f77a9 - 2237167 - most_frequent_words - STEP_SUCCESS - Finished execution of step "most_frequent_words" in 395ms.
